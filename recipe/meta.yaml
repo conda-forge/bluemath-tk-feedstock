@@ -1,6 +1,6 @@
 {% set name = "bluemath-tk" %}
-{% set version = "1.1.11" %}
-{% set sha256 = "491529b5635ae9de6c6eb507e92222866f4639be3a4a859a18435d853b934ef9" %}
+{% set version = "1.1.12" %}
+{% set sha256 = "00cea3b5a74e4c34fd84092373ae502698a70c372c0c227264dcafbba4110938" %}
 {% set python_min = 3.11 %}
 
 package:
