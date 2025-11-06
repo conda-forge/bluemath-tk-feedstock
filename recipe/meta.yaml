@@ -48,6 +48,7 @@ requirements:
     - cmocean
     - siphon
     - numba
+    - plotly
 
 test:
   imports:
