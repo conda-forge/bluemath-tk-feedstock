@@ -49,6 +49,7 @@ requirements:
     - siphon
     - numba
     - plotly
+    - h5py
 
 test:
   imports:
