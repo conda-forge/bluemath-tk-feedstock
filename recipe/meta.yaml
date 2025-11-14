@@ -41,16 +41,15 @@ requirements:
     - minisom
     - statsmodels
     - regionmask
-    - cdsapi
-    - ecmwf-opendata
     - ipykernel
     - ipywidgets
     - cmocean
     - siphon
-    - numba
     - plotly
     - h5py
     - prettytable
+    - numba
+    - csaps
 
 test:
   imports:
