@@ -51,9 +51,8 @@ requirements:
     - numba
     - csaps
     - pytz
-    - pip:
-      - pyclustering
-      - dask-core
+    - pyclustering
+    - dask-core
 
 test:
   imports:
