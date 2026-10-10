@@ -1,6 +1,6 @@
 {% set name = "bluemath-tk" %}
-{% set version = "1.2" %}
-{% set sha256 = "dc4ce6e6281b96890bdee1705df8e64620333fb94ba1bfdd0b4cadbded0101c3" %}
+{% set version = "1.3" %}
+{% set sha256 = "0c1e64391f221e398af54aaead734552d68b5e72532d0a0be256440901e98a40" %}
 {% set python_min = 3.11 %}
 
 package:
@@ -8,7 +8,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/bluemath_tk-{{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/bluemath_tk-{{ version }}.tar.gz
   sha256: {{ sha256 }}
 
 build:
