@@ -50,6 +50,7 @@ requirements:
     - prettytable
     - numba
     - csaps
+    - pytz
 
 test:
   imports:
